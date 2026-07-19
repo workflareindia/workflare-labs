@@ -1,6 +1,6 @@
 ---
 title: "Selfhosting & Ubuntu Guides"
-socialImage: "thumbs/index.webp"
+socialImage: "./thumbs/index.webp"
 description: "A hub for open source selfhosting guides and Ubuntu server tutorials."
 date: 2026-07-20
 ---
