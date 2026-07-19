@@ -7,7 +7,7 @@ date: 2026-07-20
 
 # Welcome to Selfhosting & Ubuntu Guides
 
-![Alternative text for screen readers](/thumbs/index.webp)
+![Alternative text for screen readers](./thumbs/index.webp)
 
 This vault is a collection of resources, guides, and tutorials focused on open-source selfhosting and Ubuntu server management.
 
