@@ -248,11 +248,10 @@ plugins:
     enabled: true
     options:
       includeAll: true
-      includedProperties:
-        - description
-        - tags
-        - aliases
-      excludedProperties: []
+      excludedProperties:
+              - created
+              - modified
+              - published
       hidePropertiesView: false
       delimiters: ---
       language: yaml

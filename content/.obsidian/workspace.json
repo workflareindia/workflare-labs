@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "812644ca8a416b0d",
+    "type": "split",
+    "children": [
+      {
+        "id": "7f2ec0fc62f45896",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ee55b5b56b559de7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "index"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53b686c8fe7e099c",
+    "type": "split",
+    "children": [
+      {
+        "id": "b2bf24d93dc4557f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "33f19482fa138726",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "0fabf67aae98b743",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "93f852846347e8e2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b01fb6db8d7e132b",
+    "type": "split",
+    "children": [
+      {
+        "id": "f60271580e681a99",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c09f90fe1ae9d6c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2635590649102348",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "cd757eff6ec5d12c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9d6093f6f1fe6298",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "2aa97848794c15be",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "ee55b5b56b559de7",
+  "lastOpenFiles": [
+    "index.md",
+    "guides/ubuntu/vmware-fusion.md",
+    "guides/ubuntu/orbstack.md",
+    "guides/ubuntu/fresh-pc.md",
+    "guides/ubuntu/dual-boot.md",
+    "guides/ubuntu/wsl.md",
+    "guides/containerization-platform/kubernetes.md",
+    "guides/containerization-platform/dockge.md",
+    "guides/containerization-platform/portainer.md",
+    "guides/ubuntu/ubuntu-server-setup.md",
+    "guides/ubuntu",
+    "guides/docker/docker-selfhosting.md",
+    "guides/docker",
+    "guides/forums/discourse.md",
+    "guides/business/odoo.md",
+    "guides/business/erpnext.md",
+    "guides/business",
+    "guides/forums/flarum.md",
+    "guides/forums",
+    "guides/productivity/rocket-chat.md",
+    "guides/productivity/nextcloud.md",
+    "guides/productivity",
+    "guides/automation/n8n.md",
+    "guides/automation",
+    "guides/utilities/copyparty.md",
+    "guides/utilities/nginx-proxy-manager.md",
+    "guides/utilities/filebrowser.md",
+    "guides/utilities",
+    "guides/monitoring/uptime-kuma.md",
+    "guides/monitoring/umami.md",
+    "guides/monitoring",
+    "ubuntu-server-setup.md",
+    "docker-selfhosting.md"
+  ]
+}
