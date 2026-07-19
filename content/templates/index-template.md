@@ -1,6 +1,6 @@
 ---
 title: "Index Title"
-socialImage: "#"
+socialImage: "https://labs.workflare.in/thumbs/#"
 description: "A description of the index page content."
 date: {{date}}
 ---

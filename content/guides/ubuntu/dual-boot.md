@@ -1,6 +1,6 @@
 ---
 title: "Install Ubuntu LTS Server Dual-Booted alongside Windows"
-socialImage: "#"
+socialImage: "#https://labs.workflare.in/thumbs/#"
 description: "A comprehensive guide to dual-booting (sideloading) Ubuntu LTS Server (non-GUI) on a machine running Windows."
 date: 2026-07-20
 ytUrl: "#"

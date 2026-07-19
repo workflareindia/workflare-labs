@@ -1,6 +1,6 @@
 ---
 title: "Guide Title"
-socialImage: "#"
+socialImage: "https://labs.workflare.in/thumbs/#"
 description: "A short, compelling description of what this guide covers."
 date: {{date}}
 ytUrl: "https://youtube.com/watch?v=example"

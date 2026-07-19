@@ -1,13 +1,13 @@
 ---
 title: "Selfhosting & Ubuntu Guides"
-socialImage: "./thumbs/index.webp"
+socialImage: "https://labs.workflare.in/thumbs/index.webp"
 description: "A hub for open source selfhosting guides and Ubuntu server tutorials."
 date: 2026-07-20
 ---
 
 # Welcome to Selfhosting & Ubuntu Guides
 
-![Alternative text for screen readers](./thumbs/index.webp)
+![Alternative text for screen readers](/thumbs/index.webp)
 
 This vault is a collection of resources, guides, and tutorials focused on open-source selfhosting and Ubuntu server management.
 
