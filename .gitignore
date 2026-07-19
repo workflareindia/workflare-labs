@@ -1,0 +1,10 @@
+# Quartz build output
+public/
+
+# Node dependencies
+node_modules/
+.pnpm-store/
+
+# Local/OS files
+.DS_Store
+Thumbs.db
