@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "templates/index-template.md",
+                "file": "index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index-template"
+              "title": "index"
             }
           }
         ]
@@ -182,8 +182,8 @@
   },
   "active": "aeba5daf6f67fa10",
   "lastOpenFiles": [
-    "attachments/link-to-guide-1.md",
     "templates/index-template.md",
+    "attachments/link-to-guide-1.md",
     "templates/guide-template.md",
     "thumbs/index.webp",
     "index.md",
